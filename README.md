@@ -7,3 +7,4 @@ The Lilith Overlay is without a doubt the best general-purpose utility overlay a
 
 ## Duels Stats
 Remember Seraph? Well now you can forget about it.
+![Duels Queuestats](https://user-images.githubusercontent.com/38318241/117661343-3d6bee80-b16c-11eb-8b2d-3379b02e8b03.png)
