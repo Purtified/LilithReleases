@@ -3,3 +3,7 @@
 [![Works on any OS](https://img.shields.io/badge/Works%20on-Windows%2C%20Mac%2C%20and%20Linux-6F0B4F?style=for-the-badge&labelColor=24020F)](https://shields.io)
 [![Powered by Black Magic](https://img.shields.io/badge/Powered%20By-Black%20Magic-6F0B4F?style=for-the-badge&labelColor=24020F)](https://shields.io)
 
+The Lilith Overlay is without a doubt the best general-purpose utility overlay available for Hypixel, now in early alpha testing.
+
+## Duels Stats
+Remember Seraph? Well now you can forget about it.
