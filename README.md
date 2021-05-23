@@ -20,9 +20,6 @@ Don't lose winstreaks to "You are sending too many commands." Lilith will kick y
 ## BDSM Included
 Easily check anyone's stats using the `/sc` command while on any client.
 
-## Cloud Config
-Configure modules and settings easily using in-game commands or with our discord bot.
-
 ## Coming Soon
 As development continues, even more features will be added for other gamemodes besides duels, like autododging and stats for Bedwars and Skywars.
 
