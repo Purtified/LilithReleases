@@ -53,7 +53,7 @@
   
   - **Post-Update player name grabbing and stat checking**
   - **Stats in tab menu**
-  - **Whitelist options**
+  - **Party Support**
   - `/l` **and other lobby command cool-down protection.**
   - **Freelook, auto-text hotkeys, and other Lunar Client blocked mod's can be used on Hypixel with Lilith.**
   - **1.7.10 Hit registration, "Hit Delay Fix."**
@@ -91,7 +91,16 @@
   Are you tired of having to remember play commands or exit to lobby? That's why Lilith has a requeue command. Just do `/rq` and you'll be put into a new game.
   
 </details>
+
+<details>
+  <summary>
+    Whitelist Commands</summary>
   
+  ## Whitelist Commands
+  If you're evere quing a team gamamode like UHC or OP doubles with a friend and don't want to have their stats flooding chat and preventing you from seeing the stats you truely want to see, your opponents', you can use `/whitelist add` followed by their ign to prevent Lilith from showing their stats. To remove someone from the whitelist, use `/whitelist remove` on them. To view all igns on your whitelist use `/whitelist`. Please note that your whitelist will reset every session.
+  
+</details>
+
 <details>
   <summary>
     Stat Check Commands</summary>
