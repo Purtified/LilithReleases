@@ -108,9 +108,9 @@
     Stat Check Commands</summary>
   
   ## Bridge Duels Stats Mod Included
-  Easily check anyone's stats using the `/sc` command while on any client, currently in support for duels only gamemodes.
+  Easily check anyone's stats using the `/sc` command while on any client, currently in support for duels only gamemodes. Support for other gamemodes is coming soon.
   
-  Support for other gamemodes coming soon^^
+  In order to check someone's name history, including ll of their previous igns as well as the dates they were changed on, run the `/nh` command followed by their ign.
   
 </details>
 
