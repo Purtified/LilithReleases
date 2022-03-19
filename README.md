@@ -35,7 +35,8 @@
 
 <h4 align="center">
   
-  Lilith is without a doubt the best general-purpose utility overlay available for Hypixel that works on any client with the use of a proxy, and is now in early alpha testing. https://discord.gg/lilith
+  Lilith is without a doubt the best general-purpose utility overlay available for Hypixel that works on any client with the use of a proxy, and is now in early alpha testing.
+  If you would like a license to use Lilith please apply on our discord: https://discord.gg/lilith
   
 </h4>
 
