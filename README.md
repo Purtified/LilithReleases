@@ -114,6 +114,17 @@
   
 </details>
 
+<details>
+  <summary>
+    Miscellaneous Commands</summary>
+  
+  ## Miscellaneous Commands
+  If you are making changes to your Lilith config and don't want to have to relaunch Lilith to grab your new settings, simply run `/lreload` in game to reload your new config settings.
+
+  The `/fakechat` command can be used to echo back any message you write including color codes. If you want to forge a fake freind request message from your favorite youtuber, this is the command for you.
+  
+</details>
+
 <a href="https://github.com/GhqstMC/LilithReleases/releases">
     <img align="right" alt="Download Badge"
          src="https://img.shields.io/badge/-download here-6F0B4F?&style=for-the-badge&logo=github&logoColor=24020F" style="width: 20%">
