@@ -97,7 +97,7 @@
     Whitelist Commands</summary>
   
   ## Whitelist Commands
-  If you're evere quing a team gamamode like UHC or OP doubles with a friend and don't want to have their stats flooding chat and preventing you from seeing the stats you truely want to see, your opponents', you can use `/whitelist add` followed by their ign to prevent Lilith from showing their stats. To remove someone from the whitelist, use `/whitelist remove` on them. To view all igns on your whitelist use `/whitelist`. Please note that your whitelist will reset every session.
+  If you're playing a team gamamode like UHC or OP doubles with a friend and don't want to have their stats flooding chat and preventing you from seeing the stats you truely want to see, your opponents', you can use `/whitelist add` followed by their ign to prevent Lilith from showing their stats. To remove someone from the whitelist, use `/whitelist remove` on them. To view all igns on your whitelist use `/whitelist`. Please note that your whitelist will reset every session.
   
 </details>
 
