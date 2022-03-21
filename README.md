@@ -1,6 +1,6 @@
 <!--- Drawing the title "Lilith" top of the Readme. --->
 <p align="center">
-    <img src="https://github.com/Scherso/LilithReleases/blob/main/assets/title.png" style="width: 60%">
+    <img src="https://github.com/GhqstMC/LilithReleases/blob/main/assets/title.png" style="width: 60%">
 </p>
 
 <!--- Drawing the text "Lilith Overlay" and it's badges. --->
@@ -70,12 +70,12 @@
 
   <img
       align="bottom" alt="Preview Prefix"
-      src="https://github.com/Scherso/LilithReleases/blob/main/assets/statprefix.png" style="width: 40%"
+      src="https://github.com/GhqstMC/LilithReleases/blob/main/assets/statprefix.png" style="width: 40%"
   />
 
   <img 
        align="top" alt="Preview Suffix"
-       src="https://github.com/Scherso/LilithReleases/blob/main/assets/statsuffix.png" style="width: 31%"
+       src="https://github.com/GhqstMC/LilithReleases/blob/main/assets/statsuffix.png" style="width: 31%"
   />
   
 </details>
