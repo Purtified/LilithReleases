@@ -45,8 +45,8 @@
 
 <h4 align="center">
   
-  Remember Seraph? Well now you can forget about it, Lilith features queue-stats that tell you exactly what you need to know to help you dodge skilled opponents, while ignoring bots, and also giving you information on who is nicked in queue.
-  
+  Remember Seraph? Forget about it. Lilith features queuestats that tell you exactly what you need to know to help you dodge skilled opponents while ignoring bots. Most importantly, Lilith works on Lunar and any client. 
+    
 </h4>
 
 <details>
@@ -58,7 +58,7 @@
   - **Party Support**
   - `/l` **and other lobby command cool-down protection.**
   - **Freelook, auto-text hotkeys, and other Lunar Client blocked mod's can be used on Hypixel with Lilith.**
-  - **1.7.10 Hit registration, "Hit Delay Fix."**
+  - **Lunar 1.7.10 Hit registration, "Hit Delay Fix."**
   - **Forge Spoofer, while on forge, Hypixel will not be able to 1) see mods you're using, 2) see if you are using forge.**
   - **Fake Chat, allows you to use commands to create fake chat messages.**
   
